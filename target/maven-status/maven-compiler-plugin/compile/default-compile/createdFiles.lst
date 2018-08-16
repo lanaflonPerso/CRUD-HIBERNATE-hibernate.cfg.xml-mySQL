@@ -1,0 +1,12 @@
+controller\Controller.class
+domain\Student.class
+App.class
+domain\MarkRepository.class
+domain\StudentRepository.class
+domain\LaptopRepository.class
+domain\Lecture.class
+domain\Laptop.class
+domain\RepositoryInterface.class
+domain\Mark.class
+domain\LectureRepository.class
+hibernate\utils\HibernateUtils.class
